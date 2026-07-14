@@ -30,3 +30,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Gemini CLI settings
+
+.gemini/
+
+
+# GitHub Actions credentials
+
+gha-creds-*.json
